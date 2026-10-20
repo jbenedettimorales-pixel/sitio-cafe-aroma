@@ -18,7 +18,7 @@ header {
   padding: 1rem;
 }
 nav a { color: #fff; text-decoration: none; margin-left: 1.5rem; }
-nav a:hover { text-decoration: underline; }
+nav a:hover {color: #ffcc80 text-decoration: underline; }
 
 /* ===== MENU ===== */
 
